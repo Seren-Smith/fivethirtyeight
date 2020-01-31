@@ -16,7 +16,7 @@ FiveThirtyEight <https://github.com/fivethirtyeight/data>. Note that
 while we received guidance from editors at 538, this package is not
 officially published by 538.
 
-Shout out to my 293 students\!
+my city now\!
 
 ## Installation
 
